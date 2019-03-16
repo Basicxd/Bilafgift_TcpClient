@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilafgift_TcpClient", "Bilafgift_TcpClient\Bilafgift_TcpClient.csproj", "{12371BB7-E6DD-4DFD-905E-2639329D163B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12371BB7-E6DD-4DFD-905E-2639329D163B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12371BB7-E6DD-4DFD-905E-2639329D163B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12371BB7-E6DD-4DFD-905E-2639329D163B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12371BB7-E6DD-4DFD-905E-2639329D163B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B53E0C5-3467-4031-A242-5263C9A81177}
+	EndGlobalSection
+EndGlobal
