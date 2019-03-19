@@ -19,11 +19,11 @@ namespace Bilafgift_TcpClient
 
             while (true)
             {
+                string answer = sr.ReadLine();
+                Console.WriteLine(answer);
+
                 string message = Console.ReadLine();
                 sw.WriteLine(message);
-
-                string answer = sr.ReadLine();
-                Console.WriteLine("Server: " + answer);
             }
 
             Console.ReadLine();
